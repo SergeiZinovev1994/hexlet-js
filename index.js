@@ -1,5 +1,4 @@
 import _ from "lodash";
 
-console.log('Hello, World');
+import something from "src/indexedDB.js"
 
-console.log(_.last(['one', 'two']));
